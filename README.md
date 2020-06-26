@@ -11,3 +11,5 @@
 4. js-cookie [https://www.npmjs.com/package/js-cookie](https://www.npmjs.com/package/js-cookie)
 
 5. clipboard [https://clipboardjs.com/](https://clipboardjs.com/)
+
+6. vue-router [https://router.vuejs.org/zh/](https://router.vuejs.org/zh/)
